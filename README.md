@@ -59,13 +59,4 @@ The Financial Dashboard application is a web-based tool designed for personal fi
 3. **Access the Dashboard:**
    - Open a web browser and visit `http://<HOST>:<PORT>/` (replace `<HOST>` and `<PORT>` with the values specified in `server.py`).
 
----
 
-## API Endpoints
-### GET `/api/data`
-- **Description:** Fetches the current financial data.
-- **Response Format:**
-  ```json
-  {
-    "income": 6000,
-    "expenses
